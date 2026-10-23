@@ -1,0 +1,6 @@
+{
+  "name": "KUARAHY — Jogo de Luta Pixel Art",
+  "description": "Jogo de luta 2D arcade em pixel art com 6 lutadores icônicos do Paraguai, 6 arenas temáticas, modos 1vBot, 1v1 Local, Treinamento e Multiplayer Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
